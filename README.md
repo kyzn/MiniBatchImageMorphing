@@ -1,6 +1,6 @@
 #Image Morphing for Mini Batches in DNN
 
-![An example for morphing: each row is a different digit.](https://github.com/kyzn/MiniBatchImageMorphing/raw/master/Example.png)
+![An example for morphing: each row is a different digit.](https://github.com/kyzn/MiniBatchImageMorphing/raw/master/0 Example/Example.png)
 
 As part of UCSC - CS218 "Deep Learning" class, we wanted to work on possible ways to improve our test accuracy. One idea was to introduce more images to mini-batches. We did it by creating new images. 
 
