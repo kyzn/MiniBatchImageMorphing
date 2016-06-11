@@ -13,8 +13,8 @@ To get the data file, please right click and save [https://github.com/mnielsen/n
 
 |                     | Min Test Cost | Max Test Accuracy |
 | ------------------- | ------------- | ----------------- |
-| Benchmark           | 0.6108        | 97.00%            |
-| With Image Morphing | ?.????        | ??.??%            |
+| Benchmark           | **0.6108**    | **97.00%**        |
+| With Image Morphing |   1.3728      |   95.07%          |
 
 
 ##License
