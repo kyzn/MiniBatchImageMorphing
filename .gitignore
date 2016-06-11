@@ -293,3 +293,4 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+mnist.pkl.gz
