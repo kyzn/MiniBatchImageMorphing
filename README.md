@@ -11,10 +11,10 @@ To get the data file, please right click and save [https://github.com/mnielsen/n
 
 ##Results
 
-|                     | Training Cost | Test Cost | Training Accuracy | Test Accuracy |
-| ------------------- | ------------- | --------- | ----------------- | ------------- |
-| Benchmark           | x | x | x | x |
-| With Image Morphing | x | x | x | x |
+|                     | Min Test Cost | Max Test Accuracy |
+| ------------------- | ------------- | ----------------- |
+| Benchmark           | 0.6108        | 97.00%            |
+| With Image Morphing | ?.????        | ??.??%            |
 
 
 ##License
