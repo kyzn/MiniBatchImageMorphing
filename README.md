@@ -1,4 +1,4 @@
-#Image Morphing for Mini Batches in DNN
+# Image Morphing for Mini Batches in DNN
 
 ![An example for morphing: each row is a different digit.](https://github.com/kyzn/MiniBatchImageMorphing/raw/master/0 Example/Example.png)
 
@@ -9,7 +9,7 @@ This code is based on [https://github.com/mnielsen/neural-networks-and-deep-lear
 To get the data file, please right click and save [https://github.com/mnielsen/neural-networks-and-deep-learning/raw/master/data/mnist.pkl.gz](mnist.pkl.gz).
 
 
-##Results
+## Results
 
 |                     | Min Test Cost | Max Test Accuracy |
 | ------------------- | ------------- | ----------------- |
@@ -17,6 +17,6 @@ To get the data file, please right click and save [https://github.com/mnielsen/n
 | With Image Morphing |   1.3728      |   95.07%          |
 
 
-##License
+## License
 
 Please visit [https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/README.md](https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/README.md) for license details of *Code samples for "Neural Networks and Deep Learning"*.
